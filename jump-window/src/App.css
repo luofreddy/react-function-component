@@ -1,0 +1,10 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.ttt{
+  width: 100%;
+  height: 20px;
+  background-color: #ffd;
+}
